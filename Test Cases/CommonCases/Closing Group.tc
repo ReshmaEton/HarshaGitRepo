@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Closing Group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2f6ade8-9d95-4c5b-9859-fea8461c72a4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6a7f856d-82ed-4c2a-be9f-11d41cc63851</id>
+      <masked>false</masked>
+      <name>CalndrName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f88b2a25-622a-4bec-b36c-53c9320d94c2</id>
+      <masked>false</masked>
+      <name>ClosingGrupName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b160db0-03d8-44c5-a735-8dc4eab2b74b</id>
+      <masked>false</masked>
+      <name>ClosingDesc</name>
+   </variable>
+   <variable>
+      <defaultValue>10</defaultValue>
+      <description></description>
+      <id>f88fb3fa-5d89-47b3-bc13-5557f904743f</id>
+      <masked>false</masked>
+      <name>waitTime</name>
+   </variable>
+</TestCaseEntity>

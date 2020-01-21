@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BillPay_Summary_Client_or_Fund_or_Payor_Input</name>
+   <tag></tag>
+   <elementGuidId>8db88da6-1dee-47db-95cb-9689215096de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ddlPayorEntities-list&quot;]/span/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <value>//*[@id=&quot;ddlPayorEntities-list&quot;]/span/input</value>
+   </webElementXpaths>
+</WebElementEntity>

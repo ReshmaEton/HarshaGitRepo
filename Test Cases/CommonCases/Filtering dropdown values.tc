@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Drop down contains
+1. Contains.
+2. Equal to.
+3. Less than.
+4. And
+5. Or.</description>
+   <name>Filtering dropdown values</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>331c8a98-dfe2-452a-a57c-dbd0d72e4a6a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe199d1d-9003-4e60-8856-35949b90563a</id>
+      <masked>false</masked>
+      <name>EntFilterDropdown1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bed2ce84-2a9c-4596-a704-0b9a1d3a1505</id>
+      <masked>false</masked>
+      <name>EntFilterDropdown2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cd2ed527-a416-49bb-9265-d2b5744bdfb7</id>
+      <masked>false</masked>
+      <name>DropdownRelation</name>
+   </variable>
+</TestCaseEntity>

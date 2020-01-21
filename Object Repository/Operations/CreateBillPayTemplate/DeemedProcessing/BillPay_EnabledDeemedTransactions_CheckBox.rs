@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BillPay_EnabledDeemedTransactions_CheckBox</name>
+   <tag></tag>
+   <elementGuidId>45bf0e89-72c0-4545-ab2f-da57adc8ee77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;leftpane&quot;]/widget[12]/div/div/div[2]/div/div/div[1]/form/div/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;leftpane&quot;]/widget[12]/div/div/div[2]/div/div/div[1]/form/div/label/input</value>
+   </webElementXpaths>
+</WebElementEntity>

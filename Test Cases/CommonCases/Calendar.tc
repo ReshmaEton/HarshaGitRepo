@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Calendar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b358f40a-bff0-4d2d-8722-01f9776604f8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d464c857-4cbe-4bcd-aba7-068e2fe6a876</id>
+      <masked>false</masked>
+      <name>CalndrName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0f0c1a52-f926-4245-b145-ff7a48ac5f85</id>
+      <masked>false</masked>
+      <name>CalndrPeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>149aa8db-62ea-4920-a3d5-fb44c6735ec9</id>
+      <masked>false</masked>
+      <name>CalndrStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b366919-8c1b-4840-a65c-bc4f7102a0db</id>
+      <masked>false</masked>
+      <name>CalndrEndDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>650e3cd0-192d-4670-9dad-8bec7e144326</id>
+      <masked>false</masked>
+      <name>waitTime</name>
+   </variable>
+</TestCaseEntity>

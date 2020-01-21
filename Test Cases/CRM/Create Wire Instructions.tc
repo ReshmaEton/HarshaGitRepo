@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Wire Instructions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e7be8ab-c0b0-4741-a16d-ec5275bd1a40</testCaseGuid>
+   <variable>
+      <defaultValue>10</defaultValue>
+      <description></description>
+      <id>87df3862-2ec8-4830-844f-771908a1d614</id>
+      <masked>false</masked>
+      <name>waitTime</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63c537df-d6c3-4422-8c44-6928d8467488</id>
+      <masked>false</masked>
+      <name>WireInstructDesc</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>88b12208-6e32-4050-a2ae-060eba74baab</id>
+      <masked>false</masked>
+      <name>WiredInstructBankAccNum</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7daadbc7-43db-4639-b6fe-b41aa9fc78c6</id>
+      <masked>false</masked>
+      <name>WireType</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\Harsha.Konduru\\Desktop\\Google.jpg'</defaultValue>
+      <description></description>
+      <id>b1f1e525-5f2f-47f9-928f-e1ed68c38dd5</id>
+      <masked>false</masked>
+      <name>UploadAttachmentWireInstructions</name>
+   </variable>
+   <variable>
+      <defaultValue>'Upload Successful'</defaultValue>
+      <description></description>
+      <id>2bc9a520-f7b5-46cc-9b2d-dad2a172f7ad</id>
+      <masked>false</masked>
+      <name>ValidatingTextAfterUpload</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d57d88a9-bbfb-43d1-bf03-d8041d89927a</id>
+      <masked>false</masked>
+      <name>AddCommentWiredInstruction</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>51dbb201-57ed-40af-9d9c-d55c1a9835ad</id>
+      <masked>false</masked>
+      <name>ABANumber</name>
+   </variable>
+</TestCaseEntity>

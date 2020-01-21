@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BillPay_Summary_Client_or_Fund_or_Payor</name>
+   <tag></tag>
+   <elementGuidId>084b0276-9f36-4133-98cd-c3f2272b2173</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;leftpane&quot;]//span[contains(@aria-owns,'ddlPayorEntities')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <value>//*[@id=&quot;leftpane&quot;]/widget[1]/div/div/div[2]/div/div[4]/div[2]/form/div/span/span/span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <value>//widget[@title='Summary']//label[.='Fund:']/../span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <value>//widget[@title='Summary']//label[.='Client:']/../span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <value>//widget[@title='Summary']//label[.='Payor:']/../span</value>
+   </webElementXpaths>
+</WebElementEntity>

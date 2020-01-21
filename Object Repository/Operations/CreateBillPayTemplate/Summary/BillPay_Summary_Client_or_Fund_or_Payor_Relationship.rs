@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BillPay_Summary_Client_or_Fund_or_Payor_Relationship</name>
+   <tag></tag>
+   <elementGuidId>7b261096-e485-4210-a55f-5bee01294ca5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftpane']//span[contains(@aria-owns,'ddlPayorRelationships')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <value>//*[@id=&quot;leftpane&quot;]/widget[1]/div/div/div[2]/div/div[4]/div[1]/form/div/span/span/span[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

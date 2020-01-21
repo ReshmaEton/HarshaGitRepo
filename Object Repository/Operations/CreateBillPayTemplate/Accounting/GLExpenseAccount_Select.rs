@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GLExpenseAccount_Select</name>
+   <tag></tag>
+   <elementGuidId>b9ef44e0-6768-451c-8772-0eb2b5af31bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='ddlGlDebit23_listbox']/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <value>//*[@id=&quot;ddlGlCredit_listbox&quot;]/li</value>
+   </webElementXpaths>
+</WebElementEntity>

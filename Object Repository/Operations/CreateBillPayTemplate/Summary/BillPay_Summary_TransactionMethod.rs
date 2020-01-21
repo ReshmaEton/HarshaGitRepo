@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BillPay_Summary_TransactionMethod</name>
+   <tag></tag>
+   <elementGuidId>bcda30f4-cceb-4ad6-8ba7-0898c32b7a5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@id='leftpane']/widget/div/div/div[2]/div/div[3]/div/form/div/select)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <value>//*[@id=&quot;leftpane&quot;]/widget[1]/div/div/div[2]/div/div[3]/div[2]/form/div[1]/select</value>
+   </webElementXpaths>
+</WebElementEntity>

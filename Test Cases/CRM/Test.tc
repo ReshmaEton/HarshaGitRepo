@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c110b06d-8865-4394-877a-41b28ae97d38</testCaseGuid>
+   <variable>
+      <defaultValue>'http://test2.familyoperations.com/'</defaultValue>
+      <description></description>
+      <id>4dc7fc3c-154f-4c19-8bb0-257d41544c13</id>
+      <masked>false</masked>
+      <name>AppUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin-eton'</defaultValue>
+      <description></description>
+      <id>c9dbf706-9cb2-4ab4-a9e2-16d8214732eb</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password#1'</defaultValue>
+      <description></description>
+      <id>26f94e44-88c2-4faa-9d50-4fbae4fcf4e4</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'aaa'</defaultValue>
+      <description></description>
+      <id>03771d4c-8a62-4b0c-89d1-5930b9d058a0</id>
+      <masked>false</masked>
+      <name>SecurityAns</name>
+   </variable>
+</TestCaseEntity>

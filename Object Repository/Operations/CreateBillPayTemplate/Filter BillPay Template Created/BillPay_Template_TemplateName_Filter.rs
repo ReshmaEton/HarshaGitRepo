@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BillPay_Template_TemplateName_Filter</name>
+   <tag></tag>
+   <elementGuidId>28295037-27ff-4aa9-b072-a09922c146be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//body[@ng-controller='BodyController']//div[@class='k-animation-container'])[3]/div/ul/li[6]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>(//body[@ng-controller='BodyController']//div[@class='k-animation-container'])[3]/div/ul/li[6]/span</value>
+   </webElementXpaths>
+</WebElementEntity>

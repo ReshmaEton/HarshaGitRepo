@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BillPay_Summary_Client_or_Fund_or_Payor_Relationship_Select</name>
+   <tag></tag>
+   <elementGuidId>122732ec-8a5d-4951-ac19-bb02d4dd1b32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ddlPayorRelationships_listbox&quot;]/li</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <value>//*[@id=&quot;ddlPayorRelationships_listbox&quot;]/li</value>
+   </webElementXpaths>
+</WebElementEntity>
